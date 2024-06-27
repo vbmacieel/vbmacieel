@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2 align="center">Hello, my name is Victor! 👋</h2>
 
-<!--
-**vbmacieel/vbmacieel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm a software developer currently pursuing a degree in Analysis and Systems Development. With extensive knowledge in C#, I'm have seeking specialization using .NET environment, aiming to create integrated and innovative solutions.
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbmaciel/)
+  [![Email](https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:vbastosmaciel@outlook.com.br)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>🛠️ Tools and Technologies</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=git,java,cs,dotnet,ts,angular,godot&theme=light)](https://skillicons.dev)
+</div>
+
+
