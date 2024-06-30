@@ -13,7 +13,7 @@
 <div align="center">
   <h3>🛠️ Tools and Technologies</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=git,java,cs,dotnet,ts,angular,godot&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,java,cs,dotnet,ts,angular,vue,godot&theme=light)](https://skillicons.dev)
 </div>
 
 
