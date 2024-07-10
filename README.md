@@ -1,7 +1,7 @@
 <h2 align="center">Hello, my name is Victor! 👋</h2>
 
 <p align="center">
-  I'm a software developer currently pursuing a degree in Analysis and Systems Development. With extensive knowledge in Java and Kotlin, I'm have seeking specialization in mobile development, aiming to create integrated and innovative solutions.
+  I am a passionate software developer currently pursuing a degree in Analysis and Systems Development. My primary goal is to specialize using .NET environment across different development fronts, ranging from backend to game development. I am committed to enhancing my skills to develop innovative and robust solutions with my skills.
 </p>
 
 <div align="center">
@@ -12,13 +12,8 @@
 
 <div align="center">
   <h3>🛠️ Tools and Technologies</h3>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+
+  [![My Skills](https://skillicons.dev/icons?i=git,java,cs,dotnet,typescript,angular,godot&theme=light)](https://skillicons.dev)
 </div>
 
 
