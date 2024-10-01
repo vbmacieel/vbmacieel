@@ -1,7 +1,7 @@
 <h2 align="center">Hello, my name is Victor! 👋</h2>
 
 <p align="center">
-  I am a passionate software developer currently pursuing a degree in Analysis and Systems Development. My primary goal is to specialize using .NET environment across different development fronts, ranging from backend to game development. I am committed to enhancing my skills to develop innovative and robust solutions with my skills.
+  I am a passionate software developer currently pursuing a degree in Analysis and Systems Development. My primary goal is to specialize on mobile development. I am committed to enhancing my skills to develop innovative and robust solutions with my skills.
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
 <div align="center">
   <h3>🛠️ Tools and Technologies</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=git,cs,dotnet,typescript,angular,godot,vscode&theme=light)](https://skillicons.dev)
+  ![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,android,jetpackcompose,androidstudio,mongodb,firebase,sqlite)
 </div>
 
 
