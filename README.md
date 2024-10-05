@@ -13,7 +13,7 @@
 <div align="center">
   <h3>🛠️ Tools and Technologies</h3>
 
-  ![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,spring,android,jetpackcompose,androidstudio,mongodb,firebase,sqlite)
+  ![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,springboot,android,jetpackcompose,androidstudio,mongodb,firebase,sqlite)
 </div>
 
 
