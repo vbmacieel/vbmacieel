@@ -13,7 +13,7 @@
 <div align="center">
   <h3>🛠️ Tools and Technologies</h3>
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,cs,dotnet,blazor,angular,mongodb,firebase,sqlite,azure)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,java,cs,dotnet,mongodb,firebase,sqlite,godot)
 </div>
 
 
