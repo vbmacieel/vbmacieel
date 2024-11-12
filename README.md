@@ -1,7 +1,7 @@
 <h2 align="center">Hello, my name is Victor! 👋</h2>
 
 <p align="center">
-  I am a passionate software developer currently pursuing a degree in Analysis and Systems Development. My primary goal is to specialize on .NET development. I am committed to enhancing my skills to develop innovative and robust solutions with my skills.
+  I am a passionate software developer currently pursuing a degree in Analysis and Systems Development. My primary goal is to specialize on Android development, using Java and Kotlin for this. I am committed to enhancing my skills to develop innovative and robust solutions with my skills.
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
 <div align="center">
   <h3>🛠️ Tools and Technologies</h3>
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,java,cs,dotnet,mongodb,firebase,sqlite,godot)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,java,kotlin,android,jetpackcompose,spring,mongodb,firebase,sqlite)
 </div>
 
 
