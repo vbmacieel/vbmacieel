@@ -18,7 +18,7 @@ While I have worked with different platforms and technologies, I’ve come to re
 <div align="center">
   <h3>👀 I want to learn in the future</h3>
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=compose,dart,flutter,unity)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,dart,flutter,unity)
 </div>
 
 
