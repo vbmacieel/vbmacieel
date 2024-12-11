@@ -14,7 +14,7 @@ I am a passionate developer currently pursuing a degree in Analysis and Systems 
 <div align="center">
   <h3>👀 I want to learn in the future</h3>
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,unity,godot)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,flutter,unity)
 </div>
 
 
