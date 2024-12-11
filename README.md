@@ -8,7 +8,7 @@ I am a passionate developer currently pursuing a degree in Analysis and Systems 
 <div align="center">
   <h3>🛠️ Tools and Technologies</h3>
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,cs,java,spring,android,ts,angular,mongodb,postgres)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,kotlin,java,spring,android,ts,nodejs,angular,mongodb,firebase,postgres)
 </div>
 
 <div align="center">
