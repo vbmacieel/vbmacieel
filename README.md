@@ -4,19 +4,19 @@
 [![Email](https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:vbastosmaciel@outlook.com.br)
 
 <p>
- I’m a developer with experience in different areas of software development. Right now, I’m focusing on .NET environment. I’ve worked with technologies like Spring, Android, and .NET, and built a solid foundation along the way. My goal now is to deepen my skills in fullstack development.
+ I'm a developer with experience in various areas of software development. Currently, I'm focused on enhancing my skills in Java and Kotlin. Over the years, I've built a strong foundation by working with diverse technologies, and my goal is to become an excellent and highly regarded developer in the field.
 </p>
 <div align="center">
   <h3>🛠️ Tools and Technologies</h3>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,java,cs,dotnet,blazor,typescript,mongodb,postgres,sqlserver" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kotlin,java,spring,android,typescript,mongodb,postgres" />
   </a>
 </div>
 
 <div align="center">
   <h3>👀 I want to learn in the future</h3>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=godot,unity,flutter" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,scala" />
   </a>
 </div>
 
