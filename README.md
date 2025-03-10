@@ -9,7 +9,7 @@
 <div align="center">
   <h3>🛠️ Tools and Technologies</h3>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,java,spring,android,typescript,mongodb,postgres" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,java,spring,android,typescript,react,mongodb,postgres" />
   </a>
 </div>
 
