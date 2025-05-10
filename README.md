@@ -9,14 +9,14 @@
 <div align="center">
   <h3>🛠️ Tools and Technologies</h3>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,java,spring,android,typescript,react,mongodb,postgres,docker" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,java,cs,dotnet,typescript,react,mongodb,postgres,sqlserver" />
   </a>
 </div>
 
 <div align="center">
   <h3>👀 I want to learn in the future</h3>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,scala,redis" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=godot,angular,blazor" />
   </a>
 </div>
 
